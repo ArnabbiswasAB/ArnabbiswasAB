@@ -1,14 +1,25 @@
 <h1 align="center">Hi 👋, I'm Arnab Biswas</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
 
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=Soham-Chakraborty-8455&label=Profile%20views&color=0e75b6&style=flat" alt="Soham-Chakraborty-8455" /> </p>
+
 <img align="center" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
+### About Myself:
+
+- I am a student pursuing **Bachelors of Technology** in **Electronics and Communication Engineering**, batch of **2024**.
+- I am a **Full Stack Developer** looking to expand my knowledge and gain experience in cross-platform application development.
+/*- I am a **Backend Developer** and I use Flask, Django, Express and FastAPI to create backend of my apps*/
+- I am a Competitive Programming enthusiast working to improve my **Problem Solving** skills.
+- I’m currently enhancing  **Data Structures and Algorithm Skills**.
+- ⚡ Fun fact **I am an Extrovert.**
+<hr>
 
 - 💬 Ask me about **Software Engineering, Object Oriented Design, Machine Learning, Data Structures & algorithms, Frontend & Backend Web development**
 
 - 📫 How to reach me **arnabbiswasab098@gmail.com**
 
-- ⚡ Fun fact **I am an Extrovert.**
+/*- ⚡ Fun fact **I am an Extrovert.** okay */
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
