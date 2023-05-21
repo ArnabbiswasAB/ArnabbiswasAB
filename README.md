@@ -9,7 +9,6 @@
 
 - I am a student pursuing **Bachelors of Technology** in **Electronics and Communication Engineering**, batch of **2024**.
 - I am a **Full Stack Developer** looking to expand my knowledge and gain experience in cross-platform application development.
-/*- I am a **Backend Developer** and I use Flask, Django, Express and FastAPI to create backend of my apps*/
 - I am a Competitive Programming enthusiast working to improve my **Problem Solving** skills.
 - I’m currently enhancing  **Data Structures and Algorithm Skills**.
 - ⚡ Fun fact **I am an Extrovert.**
@@ -19,7 +18,6 @@
 
 - 📫 How to reach me **arnabbiswasab098@gmail.com**
 
-/*- ⚡ Fun fact **I am an Extrovert.** okay */
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
