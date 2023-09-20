@@ -18,6 +18,10 @@
 
 - 📫 How to reach me **arnabbiswasab098@gmail.com**
 
+<h3 align="left">LeetCode:</h3>
+  <a href="https://leetcode.com/biswas_arnab/">
+  <img src="https://leetcard.jacoblin.cool/biswas_arnab?ext=contest&theme=light,unicorn" alt="Leetcode Stats">
+  </a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
